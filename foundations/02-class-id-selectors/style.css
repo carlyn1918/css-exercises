@@ -7,7 +7,7 @@
 }
 
 .normal-p {
-    font-size: 16px; background-color: pink;
+    font-size: 16px; background-color: pink; font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .normal-p.cooler {
